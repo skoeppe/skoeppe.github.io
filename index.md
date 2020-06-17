@@ -15,3 +15,5 @@ This is a short description that may not be longer than 50 Characters This is a 
 * character traits 8
 * character traits 9
 * character traits 10
+
+Format: ![My Picture](https://malvorlagen-seite.de/wp-content/uploads/2018/02/malvorlage-toaster-e1518884131236.png)
