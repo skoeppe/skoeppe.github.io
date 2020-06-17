@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# SKOEPPE is the titel to my new website.
